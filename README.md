@@ -1,4 +1,4 @@
-# PttPostaKodlari
-Türkiye il,ilçe, mahalle ve posta kodları listesi. 
+# Ptt Posta Kodları
+# Türkiye il, ilçe, mahalle güncel veritabanı
 SQL script olarak ve Ms SQL server db dosyası olarak. 
 Not: PTT nin 08.06.2017 tarihli özet tablosunun yapılandırılımış halidir.
