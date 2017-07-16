@@ -4,4 +4,4 @@
 RAR olarak sıkıştırılmıştır.
 Dosyalardan bir tanesi sadece tablo datalarını, diğeri ise data + schme bilgilerini içermektedir.
 Düzenli olarak güncellenecektir.
-# Not: PTT nin 08.06.2017 tarihli özet tablosunun yapılandırılımış halidir.
+# Not: PTT nin 08.06.2017 tarihli özet tablosunun yapılandırılmış halidir. Class diagram dan tablo yapıları görülebilir.
